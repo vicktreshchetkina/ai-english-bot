@@ -45,3 +45,6 @@ pip install requests
 3. Запустить локальную LLM
 ``` bash
 ollama run llama3 
+4. Запустить приложение:
+``` bash
+python main.py
